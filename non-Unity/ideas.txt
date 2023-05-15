@@ -1,0 +1,1 @@
+ball and walls --- smooth colliders (circle, triangle, etc) or colliders that correspond to the actual pixels of the objects?
