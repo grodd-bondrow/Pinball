@@ -3690,7 +3690,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: be01bafba9347fb42847c56503d45fd1, type: 2}
+    - {fileID: 11400000, guid: 492c8dc0fe1c00c44a1f722c9083d81d, type: 2}
 --- !u!114 &600036833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3704,7 +3704,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"flipperDirection","value":{"$content":"right","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!1 &796184086
 GameObject:
@@ -4080,7 +4081,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.30940744, y: 1}
-  m_AnchoredPosition: {x: 0, y: 150.3}
+  m_AnchoredPosition: {x: 0, y: 150.29999}
   m_SizeDelta: {x: -60.36, y: -526}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1182495350
@@ -4215,7 +4216,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.30940744, y: 1}
-  m_AnchoredPosition: {x: 0, y: 215.2}
+  m_AnchoredPosition: {x: 0, y: 215.20001}
   m_SizeDelta: {x: -60.36, y: -526}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1463214664
@@ -4867,7 +4868,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.30940744, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: -265}
+  m_AnchoredPosition: {x: 0, y: -265}
   m_SizeDelta: {x: -60.359985, y: -570}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1755403527
