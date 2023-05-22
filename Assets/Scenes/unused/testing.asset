@@ -13,6 +13,5 @@ MonoBehaviour:
   m_Name: testing
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-50.0,"y":234.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"target":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-343.0,"y":43.0},"guid":"221ffc2a-3796-4b96-925b-4feae5873ee6","$version":"A","$type":"Unity.VisualScripting.OnCollisionEnter"}],"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 7349057374763426490, guid: 98c7ba17acfbec942a7e61ec253731d5, type: 3}
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-70.72231,"y":143.2154},"zoom":1.0,"elements":[],"$version":"A"}}'
+    _objectReferences: []
